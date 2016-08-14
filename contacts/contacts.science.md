@@ -54,6 +54,11 @@ pointing at web sites and pages in social networks.
 - Instituto de Fisica del Plasma (INFIP) (Universidad de Buenos Aires)
   * http://www.lfp.uba.ar/
 
+## Barbados
+
+- Department of Computer Science, Mathematics and Physics (University of the West Indies)
+  * http://scitec.uwichill.edu.bb/cmp/
+
 ## Bolivia
 
 
@@ -189,12 +194,18 @@ pointing at web sites and pages in social networks.
 
 ## Costa_Rica
 
+- Escuela de Fisica (Universidad de Costa Rica)
+  * http://www.efis.ucr.ac.cr/
 
 ## Cuba
 
 
 ## El_Salvador
 
+- Departamento de Ciencias Naturales (Universidad Centroamericana "José Simeón Cañas" - UCA)
+  * http://www.uca.edu.sv/deptos/ccnn/indice.html 
+- Laboratorios de Física (Universidad Centroamericana "José Simeón Cañas" - UCA)
+  * http://www.uca.edu.sv/deptos/ccnn/labfis.htm
 
 ## Equador
 
@@ -209,12 +220,19 @@ pointing at web sites and pages in social networks.
 
 ## Guatemala
 
+- Licenciatura en Fisica Aplicada (Universidad de San Carlos de Guatemala)
+  * http://fisica.usac.edu.gt/
 
 ## Haiti
 
 
 ## Honduras
 
+
+## Jamaica
+
+- Department of Physics (University of the West Indies)
+  * http://www.uwimona.edu.jm/physics/
 
 ## Mexico
 
