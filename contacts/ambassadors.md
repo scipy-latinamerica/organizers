@@ -1,5 +1,5 @@
 
-# Call for Ambassadors SciPyLA
+# SciPyLA Ambassadors
 
 The SciPy Latin America community consists of a diverse and distributed
 group of professionals and amateurs of scientific research with the common
@@ -57,7 +57,11 @@ OrgaTeam. Because of this they will rank higher when applying for
 financial support, should they need it. They will wear an organizers
 badge which will grant them with access to all scheduled activities.
 Ambassadors will talk to the rest of the OrgaTeam on behalf of
-all their countrymen attendng the event.
+all their countrymen attendng the event. At the end of the event
+Ambassadors may attend the SciPyLA Community Summit, thus
+participating in the strategic decisions about the future of the
+SciPyLA community. In that context they may present their
+candidature to opt in for hosting the next conference.
 
 ## SciPyLA Ambassadors
 
@@ -94,7 +98,8 @@ all their countrymen attendng the event.
 - [ ] Venezuela
   * @map0logo ? (2016 - present)
 
-## History of previous Ambassadors
+### History of previous Ambassadors
 
-
+- Argentina
+  * @pablocelayes (2016)
 
