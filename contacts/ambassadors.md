@@ -15,12 +15,12 @@ and the conference host, Brazil.
 A SciPyLA Ambassador is passionate of the Python programming language and
 its applications in scientific research. As such she/he represents the
 local SciPyLA community of a Latin American country and is the main
-point of contact between the SciPyLA conference OrgaTeam and the
+point of contact between the SciPyLA conference Organization Team (OrgaTeam) and the
 corresponding national communities, corporations, organizations,
 societies and governmental institutions.
 
 Prior to the SciPyLA conference Ambassadors are responsible for
-distributing iconference announcements and news through the channels
+distributing conference announcements and news through the channels
 available in their home countries. They will assist the conference
 OrgaTeam with discovering and reaching prospective attendees
 as well as assisting them to deal with paper
@@ -46,7 +46,7 @@ countries. Ambassadors are granted with the permission to contact
 on behalf of the OrgaTeam the enterprises, organizations, and
 stakeholders operating in their home countries so as to negotiate
 the terms for them to be considered as sponsors as a result of
-delivering directly to the Ambassador's countrymen the financial aids
+delivering directly to the Ambassador's compatriot the financial aids
 (e.g. flight tickets, hotel reservations) they are in need of. 
 Ambassadors may complement the press strategies of the OrgaTeam by
 recording interviews with keynote speakers, authors of relevant research,
@@ -57,7 +57,7 @@ OrgaTeam. Because of this they will rank higher when applying for
 financial support, should they need it. They will wear an organizers
 badge which will grant them with access to all scheduled activities.
 Ambassadors will talk to the rest of the OrgaTeam on behalf of
-all their countrymen attendng the event. At the end of the event
+all their countrymen attending the event. At the end of the event
 Ambassadors may attend the SciPyLA Community Summit, thus
 participating in the strategic decisions about the future of the
 SciPyLA community. In that context they may present their
@@ -96,7 +96,7 @@ candidature to opt in for hosting the next conference.
   * @eneldoserrata ? (2016 - present)
 - [ ] Uruguay
 - [ ] Venezuela
-  * @map0logo ? (2016 - present)
+  * @map0logo (2016 - present)
 
 ### History of previous Ambassadors
 
