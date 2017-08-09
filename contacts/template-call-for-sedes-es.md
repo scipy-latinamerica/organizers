@@ -30,11 +30,11 @@ La propuesta a realizar debe incluir:
 
 ### Como enviar la propuesta
 
-La mejor forma es crear un [Google Docs](http://docs.google.com/) o un [Pirate Pad](http://piratepad.net/) y compartirlo en el grupo [SciPy LA](https://groups.google.com/forum/#!forum/scipyla)
+El formulario para envio de propuesta está disponible en [link del archivo].
 
 ### Elección
 
-Se eligirá la sede al final en el ultimo Slot (Viernes 20 de mayo). El que no pueda asistir y quiera opinar puede enviar emails al thread de discusión y será tomado en cuenta.
+Se eligirá la sede al final en el ultimo Slot ([fecha]). El que no pueda asistir y quiera opinar puede enviar emails al thread de discusión y será tomado en cuenta.
 
 * [link del archivo]
 
