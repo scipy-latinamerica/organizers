@@ -99,40 +99,65 @@ them be added to their banking hours.
 ## SciPyLA Ambassadors
 
 - [x] Argentina
-  * @celiacintas (2016 - present)
+  -  Celia Cintas (2016 - present)
+    - https://twitter.com/celiacintas 
+  - Ariel Silvio Norberto RAMOS
+    - https://twitter.com/asnramos
+    
 - [x] Bolivia
-  * @govarguz (2016 - present)
+  - Noemi Ticona Angles
+    - https://twitter.com/nah_omy
+  - Ivan Ogasawara (2018)
+    - https://twitter.com/xmnlab
 - [x] Brazil
-  * @xmnlab (2016 - present)
-  * @rgaiacs (2016 - present)
+  - Caroline Dantas
+  - Arthur Alvim (2018- present)
+    - https://twitter.com/arthuralvim
 - [ ] Chile
-- [ ] Colombia
-  * @eramirem (2016 - present)
-- [x] Costa Rica
-  * @jeudy (2016 - present)
+- [x] Colombia
+  - John Roa
+- [ ] Costa Rica
 - [x] Cuba
-  * @olemis (2016 - present)
-- [ ] Ecuador 
+  - Olemis Lang
+    - https://twitter.com/olemis (2016 - present)
+- [x] Ecuador
+  - Sebastian Moscoso
+    - https://twitter.com/seburath
 - [ ] El Salvador
 - [ ] Guatemala
-  * @tian2992 (2016 - present)
 - [ ] Haiti
 - [ ] Honduras
-  * @mjdupnfm ? (2016 - present)
 - [x] México
-  * @alexdzul (2016 - present)
+  - David Ochoa (2016 - present)
 - [ ] Nicaragua
 - [ ] Panamá
 - [ ] Paraguay
 - [ ] Perú
 - [ ] República Dominicana
-  * @eneldoserrata ? (2016 - present)
 - [ ] Uruguay
 - [ ] Venezuela
-  * @map0logo ? (2016 - present)
+  - Francisco Palm
+    - https://twitter.com/map0logo (2016 - present)
 
 ### History of previous Ambassadors
 
 - Argentina
-  * @pablocelayes (2016)
-
+  - @pablocelayes (2016)
+- Bolivia
+  - Horacio Vargas @govarguz (2016)
+- Brasil
+  - @rgaiacs (2016)
+- Colombia
+  - @eramirem (2016)
+- Costa Rica
+  - @Jeudy Blanco @jeudyx (2016)
+- Guatemala
+  - Sebastian Oliva @tian2992 (2016
+- Honduras
+  - @mjdupnfm (2016)
+- México
+  - Alex Dzul @alexdzul (2016)
+- República Dominicana
+  - @eneldoserrata (2016)
+- Uruguay
+  - Michael Cetrulo
